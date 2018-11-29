@@ -24,14 +24,19 @@
       font-weight: 400;
       line-height: 21px;
     }
-    .links-button{
-      padding: 10px 24px;
-      color: #8d81ac;
-      background-color: #f4f4f4;
-      font-family: Montserrat,sans-serif;
-      font-size: 14px;
-      font-weight: 400;
-    }
+  }
+  .links-button{
+     padding: 10px 24px;
+     color: #8d81ac;
+     background-color: #f4f4f4;
+     font-family: Montserrat,sans-serif;
+     font-size: 14px;
+     font-weight: 400;
+   }
+  .line-down{
+    max-width: 1110px;;
+    border: 1px solid #c7c7c7;
+    opacity: 0.2;
   }
   .links-element{
     h3{

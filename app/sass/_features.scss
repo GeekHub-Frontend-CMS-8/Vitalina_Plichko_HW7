@@ -23,4 +23,20 @@
   padding: 50px 0 0 0;
   margin: auto;
   max-width: 900px;
+  img{
+    margin: 5px;
+  }
+}
+.pricing-block:hover {
+  transform: scale(1.1);
+  background-color: rgba(0,0,0,0.08);
+  h3 {
+    background-color: rgba(0,0,0,0.11);
+  }
+  h2 {
+    transform: scale(1.2);
+  }
+  .pricing-purchase-button {
+    background-color: rgba(0,0,0,0.15);
+  }
 }
