@@ -2,12 +2,14 @@
   background: #4b3b4e url("../img/subscription.png") no-repeat center;
   background-size: cover;
 }
-
+.subscription-title{
+  font-size: 32px;
+}
 .subscription-title{
   padding: 50px 15px;
   font-family: Montserrat, sans-serif;
   color: #d4d4d4;
-  font-size: 48px;
+  //font-size: 32px;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -55,6 +57,9 @@
     font-weight: 400;
     line-height: 32px;
   }
+
+
+
   .subscription-btn{
     padding: 15px 40px;
     text-align: center;
